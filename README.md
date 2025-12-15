@@ -1,10 +1,9 @@
-<!-- IMAGE SECTION (Floats Right) -->
+<!-- IMAGE SECTION -->
 <a href="https://github.com/saraansx">
-  <img src="IMG-20251213-WA0004.jpg" align="right" width="230" style="border-radius: 20px;" alt="227893158.jpg" />
+  <img src="./227893158.jpg" align="right" width="250" style="border-radius: 20px; box-shadow: 0px 0px 20px rgba(255, 158, 128, 0.4);" alt="saraansx" />
 </a>
 
 <!-- TEXT SECTION -->
-<!-- Using simple bold text instead of headers to avoid lines -->
 <b><font size="6">hi, i'm saraansx. ✦</font></b>
 
 <br><br>
@@ -30,5 +29,4 @@ currently building minimal things for the web. i love turning complex problems i
 <a href="https://twitter.com">twitter</a> • 
 <a href="mailto:your@email.com">email</a>
 
-<!-- This clears the floating image so footer stays at bottom -->
 <br clear="all">
