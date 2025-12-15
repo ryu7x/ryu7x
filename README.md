@@ -24,26 +24,9 @@ currently building minimal things for the web. i love turning complex problems i
 
 <br><br>
 
-<!-- AESTHETIC ICONS SECTION -->
+<!-- ICONS SECTION (Code smashed together to remove blue lines) -->
 <p align="left">
-  
-  <!-- GitHub Icon -->
-  <a href="https://github.com/saraansx" style="text-decoration: none;">
-    <img src="https://cdn.simpleicons.org/github/black" width="28" height="28" alt="github" />
-  </a>
-  &nbsp;&nbsp;
-  
-  <!-- X (Twitter) Icon -->
-  <a href="https://x.com/saraans_" style="text-decoration: none;">
-    <img src="https://cdn.simpleicons.org/x/black" width="28" height="28" alt="x" />
-  </a>
-  &nbsp;&nbsp;
-  
-  <!-- Instagram Icon -->
-  <a href="https://www.instagram.com/saraan._.s/" style="text-decoration: none;">
-    <img src="https://cdn.simpleicons.org/instagram/black" width="28" height="28" alt="instagram" />
-  </a>
-
+<a href="https://github.com/saraansx"><img src="https://cdn.simpleicons.org/github/black" width="30" height="30" alt="github" /></a>&nbsp;&nbsp;<a href="https://x.com/saraans_"><img src="https://cdn.simpleicons.org/x/black" width="30" height="30" alt="x" /></a>&nbsp;&nbsp;<a href="https://www.instagram.com/saraan._.s/"><img src="https://cdn.simpleicons.org/instagram/black" width="30" height="30" alt="instagram" /></a>
 </p>
 
 <br clear="all">
