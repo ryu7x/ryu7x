@@ -9,16 +9,18 @@
   hi, i'm saraansx. ⋆ ˚ ｡ ✦
 </span>
 
-<br>
+<br><br>
 
-<!-- Subtitle: Removed the grey bar (>) for a cleaner look -->
-<p style="color: #9E9E9E; font-style: italic; margin-top: 10px;">
- > ☁️ &nbsp; developer & ui enthusiast
-</p>
+<!-- Subtitle: Added the "greyish >" and extra spacing -->
+<span style="color: #8b949e; font-size: 16px;">
+  &gt; ☁️ &nbsp; <i>developer & ui enthusiast</i>
+</span>
+
+<br><br>
 
 currently building <b>minimal things</b> for the web. i love turning complex problems into simple, beautiful interface designs.
 
-<br>
+<br><br>
 
 <!-- Focus Section: Added color to the arrows -->
 <h3 style="margin-bottom: 5px;">✿ current focus</h3>
