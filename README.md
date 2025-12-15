@@ -24,9 +24,22 @@ currently building minimal things for the web. i love turning complex problems i
 
 <br><br>
 
-<!-- LINKS SECTION -->
-<a href="https://github.com/saraansx">github</a> • 
-<a href="https://x.com/saraans_">twitter</a> • 
-<a href="https://www.instagram.com/saraan._.s/">instagram</a>
+<!-- ICONS SECTION -->
+<p align="left">
+  <!-- Github -->
+  <a href="https://github.com/saraansx">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  
+  <!-- Twitter / X -->
+  <a href="https://x.com/saraans_">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=X&logoColor=white" />
+  </a>
+  
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/saraan._.s/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" />
+  </a>
+</p>
 
 <br clear="all">
