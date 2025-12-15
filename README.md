@@ -23,9 +23,9 @@ currently building minimal things for the web. i love turning complex problems i
 
 <b>✿ current focus</b>
 <br>
-<code>🔭 working on something aesthetic</code><br>
-<code>🌱 learning new technologies</code><br>
-<code>🎧 listening to lo-fi beats</code>
+&nbsp; › &nbsp; working on <b>something aesthetic</b><br>
+&nbsp; › &nbsp; learning <b>new technologies</b><br>
+&nbsp; › &nbsp; listening to <b>lo-fi beats</b>
 
 <br><br>
 
