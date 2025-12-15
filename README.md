@@ -11,9 +11,10 @@
 
 <br><br>
 
-<!-- Subtitle: Added the "greyish >" and extra spacing -->
+<!-- Subtitle: FIXED to be completely Grey -->
+<!-- I added the specific hex color #8b949e to the text itself so it works -->
 <span style="color: #8b949e; font-size: 16px;">
-  &gt; ☁️ &nbsp; <i>developer & ui enthusiast</i>
+  &gt; ☁️ &nbsp; <i style="color: #8b949e;">developer & ui enthusiast</i>
 </span>
 
 <br><br>
@@ -22,7 +23,7 @@ currently building <b>minimal things</b> for the web. i love turning complex pro
 
 <br><br>
 
-<!-- Focus Section: Added color to the arrows -->
+<!-- Focus Section -->
 <h3 style="margin-bottom: 5px;">✿ current focus</h3>
 <span style="color: #ff9e80;">›</span> &nbsp; working on <b>something aesthetic</b><br>
 <span style="color: #ff9e80;">›</span> &nbsp; learning <b>new technologies</b><br>
