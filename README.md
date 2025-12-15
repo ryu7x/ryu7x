@@ -17,7 +17,7 @@
 
 <br>
 
-turning caffeine into code. my commits are cleaner than my desktop.
+building things that look good and work better. minimalist by design, maximalist with coffee.
 
 <br>
 
