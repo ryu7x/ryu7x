@@ -29,9 +29,11 @@ building things that look good and work better. minimalist by design, maximalist
 
 <br>
 
-<!-- AESTHETIC ICONS -->
+<!-- DISCORD PRESENCE (Smaller & Above Icons) -->
 <p align="left">
-<a href="https://github.com/saraansx"><img src="https://cdn.simpleicons.org/github/667eea" width="32" height="32" alt="github" /></a>&nbsp;&nbsp;<a href="https://x.com/saraans_"><img src="https://cdn.simpleicons.org/x/764ba2" width="32" height="32" alt="x" /></a>&nbsp;&nbsp;<a href="https://www.instagram.com/saraan._.s/"><img src="https://cdn.simpleicons.org/instagram/667eea" width="32" height="32" alt="instagram" /></a>
+  <a href="https://discord.com/users/1359166435598930070" target="_blank">
+    <!-- Changed width to 310 to make it smaller -->
+    <img src="https://lanyard.cnrad.dev/api/1359166435598930070?theme=dark&bg=282A36&borderRadius=15px&animated=true" width="310" alt="discord presence" />
+  </a>
 </p>
-
 <br clear="all">
