@@ -17,7 +17,7 @@
 
 <br>
 
-building things that look good and work better. minimalist by design, maximalist with coffee.
+I drink coffee to code, but instead of perfect code, I often end up creating bugs .
 
 <br>
 
